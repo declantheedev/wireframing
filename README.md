@@ -58,7 +58,22 @@ Wireframes are categorized by their level of detail, known as their **fidelity**
 The examples provided in this document are descriptions of a **high fidelity wireframe**
 
 
+---
 
+### Popular Wireframing Tools
+
+While you can create wireframes with simple pen and paper, many designers use digital tools to streamline the process, enhance collaboration, and create more detailed prototypes.
+
+#### Figma
+
+Figma is a powerful, web-based design and prototyping tool that is highly recommended for wireframing. It operates directly in your browser, making it accessible and easy for entire teams to use, regardless of their operating system.
+
+**Why Figma is Great for Wireframing:**
+
+* **Real-time Collaboration:** Multiple people can work on the same wireframe simultaneously. This is invaluable for getting immediate feedback from developers and stakeholders.
+* **Vector-Based:** The vector-based design allows you to scale your designs without losing quality, making it easy to adapt a wireframe for different screen sizes (e.g., mobile, tablet, desktop).
+* **Prototyping:** You can link different screens in your wireframe together to create a clickable, interactive prototype. This allows you to test the user flow and identify any potential issues early on.
+* **Free for Individual Use:** The free tier of Figma provides more than enough functionality for most personal and small projects, making it a great tool for beginners.
 
 
 
