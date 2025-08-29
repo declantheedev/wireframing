@@ -38,6 +38,24 @@ A wireframe is built from several core components that work together to form the
 
   * **Example:** A sign-up page wireframe would feature rectangular boxes with lines inside to represent input fields for "Name," "Email," and "Password," and a large, colored box at the bottom for the "Submit" button.
 
+### Types of Wireframes
+
+Wireframes are categorized by their level of detail, known as their **fidelity**. There are two primary types: low-fidelity and high-fidelity.
+
+* **Low-Fidelity (Lo-Fi) Wireframes:**
+    These are the most basic and abstract type of wireframe. They are typically created with pen and paper or simple digital tools. They focus on the fundamental layout and content hierarchy, using simple shapes and placeholder text.
+
+    * **When to use:** Early in the design process during brainstorming and initial concept development. They're perfect for quickly exploring multiple ideas and getting early feedback without getting bogged down in details.
+
+* **High-Fidelity (Hi-Fi) Wireframes:**
+    These are much more detailed and refined. They often look very similar to a final design, including more specific content, typography, and even interactive elements that mimic the user experience. They are typically created using dedicated design software.
+
+    * **When to use:** Later in the design process, after the basic structure has been established and approved. They're used to provide a detailed blueprint for the development team and to conduct more formal user testing.
+
+
+### Which Type of Wireframe is This Document?
+
+The examples provided in this document are descriptions of a **high fidelity wireframe**
 
 
 
